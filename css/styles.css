@@ -33,7 +33,6 @@ header a img {
     background-image: linear-gradient(to right, rgb(61, 0, 0), black, rgb(61, 0, 0));
     display: flex;
     justify-content: center;
-    position: relative;
     border-top: 1px solid rgba(255, 255, 255, 0.295);
     border-bottom: 1px solid rgba(255, 255, 255, 0.295);
     position: sticky;
