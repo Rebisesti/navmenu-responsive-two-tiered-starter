@@ -127,8 +127,8 @@ footer p {
     font-variant: small-caps;
 }
 
-.toggle-menu button {
-    display: block;
+.toggle-menu {
+    display: none;
     z-index: 999;
     background-color: transparent;
     width: 25px;
